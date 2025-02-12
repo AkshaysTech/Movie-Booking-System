@@ -1,0 +1,7 @@
+Movie: PK
+Theater: INOX
+Show Timing: 2:00 PM
+Number of People: 2
+Seat Category: Platinum
+Payment Method: Debit Card
+Payment Amount: $30.0
